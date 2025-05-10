@@ -10,14 +10,13 @@ const botData = {
         "Cybersecurity", "Network Security", "Penetration Testing",
         "Kali Linux", "Splunk", "Nmap", "Wireshark", "Nessus", "Metasploit",
         "Salesforce", "ServiceNow", "Zendesk", "Cloud Management",
-        "MS Azure", "AWS", "Office 365", "Windows/MacOS Administration",
+        "AWS", "Office 365", "Windows/MacOS Administration",
         "VPN/RDP Configuration", "Active Directory Management"
     ],
     certifications: [
         "ISC2 Certified in Cybersecurity", 
         "CompTIA Network+",
-        "CompTIA Security+ SY0-601",
-        "AWS Certified Cloud Practitioner"
+        
     ],
     experience: [
         {
@@ -49,12 +48,12 @@ const botData = {
             url: "https://aeroicaccounts.selly.store/"
         },
         {
-            name: "HoneyPot Virtual Machine",
-            description: "Developed a VM on Ubuntu Linux to lure in and study cyber attackers"
+            name: "Email re-verifier",
+            description: "Developed a program to log into google accounts and sms verify accounts"
         },
         {
-            name: "SHA256 Password Cracking Generator",
-            description: "Python tool to generate SHA256 encrypted passwords for security testing"
+            name: "California Housing Affordability Trends",
+            description: "Analyzed California housing affordability trends using American Community Survey (ACS) data, comparing 2017 vs 2022."
         }
     ]
 };
